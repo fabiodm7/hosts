@@ -1,1 +1,5 @@
 # novos domínios a serem bloqueado serão publicados aqui
+# add 2024-08-03
+pagead2.googlesyndication.com
+tpc.googlesyndication.com
+8a4fb02ec9cff563099b91d454cb706b.safeframe.googlesyndication.com
